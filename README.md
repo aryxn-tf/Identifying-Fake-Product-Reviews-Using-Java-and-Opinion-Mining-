@@ -1,7 +1,7 @@
 # Fake-Review-Detection
 Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Features
 
-Dissertation is available at https://arxiv.org/abs/2003.00807
+
 
 
 
